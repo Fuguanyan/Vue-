@@ -1,9 +1,9 @@
-＃Vue-d
-本资料转自于
+
 # Vue.js 免费中文视频教程
 ### 目前为止，最全面的Vue.js 1.0 免费中文视频教程汇总。
 
 **原文地址：** http://phpecshop.blog.51cto.com/6296699/1834208
+本资料转自于：http://helloqingfeng.github.io/
 
 ![](http://ww4.sinaimg.cn/large/66101050jw1f7hxzrh0scj20yz0bf0sv.jpg)
 
